@@ -1,0 +1,242 @@
+// HOME
+
+.home {
+  .section-1 {
+    height: 100vh;
+    padding: 0 50px 150px;
+
+    &:before {
+      content: '';
+      background-image: url(../../src/images/accueil/clara-foggetti-header.png);
+      background-size: cover;
+      background-repeat: no-repeat;
+      position: absolute;
+      top: 0px;
+      width: 100%;
+      height: 100%;
+    }
+
+    &:after {
+      content: '';
+      width: 100%;
+      height: 100%;
+      background-color: rgba(255, 255, 255, 0.60);
+      position: absolute;
+      top: 0;
+      left: 0;
+      z-index: 1;
+    }
+
+    .bloc-text {
+      @extend .center;
+      @include translate(-50%,-65%);
+      width: 100%;
+      max-width: 965px;
+      z-index: 10;
+
+      h2 {
+        text-transform: uppercase;
+        margin: 55px 0;
+        font-size: 44px;
+        line-height: 80px;
+        letter-spacing: 3px;
+        font-family: 'lulocleanw01-onebold';
+      }
+
+      a.button {
+        position: relative;
+        text-align: center;
+        display: block;
+        background: black;
+        color: white;
+        border: none;
+        padding: 20px 15px;
+        width: 100%;
+        max-width: 216px;
+        border-radius: 100px;
+        text-transform: uppercase;
+        font-size: 0.8em;
+        font-family: 'lulocleanw01-onebold';
+
+        &:before {
+          content: '';
+          width: 1px;
+          height: 60px;
+          background: rgba(0, 0, 0, 0.30);
+          position: absolute;
+          top: 50%;
+          left: 50%;
+          -webkit-transform: translate(-50%,28%);
+          transform: translate(-50%,28%);
+        }
+
+        &:after {
+          content: 'Scroll';
+          font-family: 'sf-pro-medium';
+          font-size: 16px; //0.85em
+          color: #000;
+          position: absolute;
+          top: 180%;
+          left: 50%;
+          -webkit-transform: translate(-50%,200%);
+          transform: translate(-50%,200%);
+          text-transform: capitalize;
+        }
+      }
+
+
+      // Responsive
+      @media screen and (max-width: 1180px) {
+        h2 {
+          font-size: 2.2em;
+          margin: 60px;
+        }
+
+        a.button {
+          margin: 0 60px;
+        }
+      }
+
+      @media screen and (max-width: 768px) {
+        h2 {
+          font-size: 1.7em;
+          line-height: 45px;
+        }
+        a.button {
+          margin: 0 auto;
+        }
+
+      }
+
+      @media screen and (max-width: 600px) {
+        h2 {
+          font-size: 1.1em;
+          line-height:35px;
+        }
+
+        a.button {
+          max-width: 150px;
+          font-size: 0.65em;
+        }
+      }
+
+    }
+  }
+
+  .section-2 {
+    padding: 150px 60px 0;
+
+    .bloc-content {
+      position: relative;
+      display: flex;
+      align-items: center;
+      margin: 150px 0;
+
+      &:nth-child(1) {
+        margin: 0 0 60px 0;
+      }
+
+      &:nth-child(even) {
+        flex-direction: row-reverse;
+
+        .bloc-text {
+          @include translate(-89.5%,-50%);
+        }
+
+        @media screen and (max-width: 650px) {
+          &:nth-child(even) {
+            flex-direction: column;
+
+
+            .bloc-text {
+              -webkit-transform: initial;
+              transform: initial;
+              position: static;
+            }
+          }
+        }
+      }
+
+      &:hover {
+        p {
+          color: #D2B48C;
+        }
+      }
+
+    }
+
+    .bloc-text {
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      @include translate(10%,-50%);
+      width: 100%;
+      max-width: 320px;
+
+      p {
+        font-family: 'austin';
+        font-size: 60px;
+        margin: 0;
+        @include transition(all 0.2s ease-in-out);
+        line-height: 60px;
+      }
+    }
+
+    .bloc-img {
+      width: 100%;
+      max-width: 767px;
+      position: relative;
+
+      &:after {
+        content: '';
+        width: 100%;
+        height: 100%;
+        position: absolute;
+        top: 0;
+        left: 0;
+      }
+
+      img {
+        width: 100%;
+        @include transition(all 0.5s ease-in-out);
+      }
+    }
+
+    h3 {
+      color: #B5B6B3;
+      text-transform: uppercase;
+      font-family: 'lulocleanw01-onebold';
+      font-size: 14px;
+      letter-spacing: 2.5px;
+    }
+
+    @media screen and (max-width: 650px) {
+      padding: 0;
+
+      .bloc-content {
+        flex-direction: column;
+        margin: 75px 0;
+      }
+
+      .bloc-text {
+        -webkit-transform: initial;
+        transform: initial;
+        position: static;
+        text-align: center;
+
+        h3 {
+          margin: 20px 0 15px;
+          font-size: 1em;
+        }
+
+        p {
+          font-size: 1.2em;
+          margin: 0;
+        }
+      }
+
+    }
+
+  }
+}
+

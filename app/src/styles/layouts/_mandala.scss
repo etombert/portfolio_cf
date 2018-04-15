@@ -1,0 +1,262 @@
+.mandala {
+
+  h3 {
+    line-height: 1.5;
+  }
+
+  .section-1 {
+    height: 100%;
+    padding: 150px 0;
+    display: flex;
+    align-items: center;
+
+    .bloc-container {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      width: 100%;
+      max-width: 990px;
+      margin: auto;
+      padding: 0 50px;
+
+    }
+
+    h2 {
+      font-family: serif;
+      font-weight: 100;
+      font-size: 3.5em;
+      margin: 0;
+    }
+
+    p.bloc-paragraph {
+      line-height: 31px;
+      font-size: 16px;
+      margin: 48px 0 75px;
+      font-family: 'sf-pro-medium';
+    }
+
+    .bloc-info {
+      display: flex;
+      justify-content: space-between;
+    }
+
+    .bloc-info_content {
+      width: 120px;
+
+      h3 {
+        margin: 10px 0;
+        font-size: 14px;
+        font-family: 'lulocleanw01-onebold';
+      }
+
+      p {
+        font-family: serif;
+        margin: 0;
+        font-size: 14px;
+      }
+    }
+
+    .bloc-text {
+      width: 100%;
+      max-width: 450px;
+    }
+
+    .bloc-img {
+      width: 100%;
+      max-width: 600px;
+
+      img {
+        width: 100%;
+      }
+    }
+
+    /*----------------------------------
+    ------------------------------------
+      Scroll Down
+    ------------------------------------
+    ------------------------------------*/
+
+    .bloc-arrow {
+      margin-top: 75px;
+    }
+
+    .home #scroll-down-container{
+      display: none;
+    }
+
+    #arrow-down{
+      width: 12px;
+      height: 50px;
+      overflow: hidden;
+    }
+
+    @-webkit-keyframes ScrollDown {
+      0%   { -webkit-transform: translateY(-190%);}
+      100% { -webkit-transform: translateY(-49%); }
+    }
+    @-moz-keyframes ScrollDown {
+      0%   { -moz-transform: translateY(-190%); }
+      100% { -moz-transform: translateY(-49%); }
+    }
+
+    #arrow-down svg{
+      margin-top: 20px;
+      -webkit-animation: ease-in-out 1.5s infinite ScrollDown;
+      -moz-animation: ease-in-out 1.5s infinite ScrollDown;
+      -ms-animation: ease-in-out 1.5s infinite ScrollDown;
+    }
+
+
+
+    @media screen and (max-width: 768px) {
+      h2 {
+        text-align: center;
+      }
+      .bloc-container {
+        justify-content: center;
+      }
+      #arrow-down {
+        margin: auto;
+      }
+      .bloc-img {
+        display: none;
+      }
+      .bloc-info {
+        text-align: center;
+      }
+    }
+
+    @media screen and (max-width: 500px) {
+      p.bloc-paragraph {
+        line-height: 1.8;
+      }
+
+      h2 {
+        font-size: 2.5em;
+      }
+
+      .bloc-text {
+        // margin: 0 100px;
+        max-width: 300px;
+      }
+
+    }
+
+  }
+
+  .section-2 {
+    padding: 0;
+    width: 100%;
+
+    .bloc-img {
+      width: 100%;
+
+      img {
+        width: 100%;
+      }
+
+    }
+  }
+
+  .section-3 {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background: black;
+    color: white;
+
+    .bloc-text {
+      text-align: center;
+      width: 100%;
+      max-width: 680px;
+    }
+
+    h3 {
+      color: #B5B6B3;
+      text-transform: uppercase;
+      font-size: 10px;
+      font-family: 'lulocleanw01-onebold';
+    }
+
+    p {
+      line-height: 38px;
+      font-family: 'sf-pro-regular';
+      font-size: 26px;
+    }
+
+    @media screen and (max-width: 500px) {
+      .bloc-text {
+        max-width: 310px;
+        padding: 0 50px;
+
+        h3 {
+          font-size: 1em;
+        }
+      }
+    }
+  }
+
+  .section-4 {
+    width: 100%;
+    .bloc-img {
+      width: 100%;
+      img {
+        width: 100%;
+      }
+    }
+  }
+
+  .section-5 {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background: black;
+    color: white;
+
+    .bloc-text {
+      text-align: center;
+      width: 100%;
+      max-width: 680px;
+    }
+
+    h3 {
+      color: #B5B6B3;
+      text-transform: uppercase;
+      font-size: 10px;
+      font-family: 'lulocleanw01-onebold';
+    }
+
+    p {
+      line-height: 38px;
+      font-family: 'sf-pro-regular';
+      font-size: 26px;
+    }
+
+    @media screen and (max-width: 500px) {
+      .bloc-text {
+        max-width: 310px;
+        padding: 0 50px;
+
+        h3 {
+          font-size: 1em;
+        }
+      }
+    }
+  }
+
+  .section-6 {
+    height: 100vh;
+  }
+
+  @media screen and (max-width: 500px) {
+    p {
+      font-size: 0.9em !important;
+      line-height: 1.5 !important;
+    }
+  }
+
+}
