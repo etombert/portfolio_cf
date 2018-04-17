@@ -12,7 +12,7 @@
 
 			<section id="section-2" class="section-2">
 
-				<a href="pages/trendee" class="bloc-content">
+				<a href="pages/trendee" class="bloc-content animsition-link" data-animsition-out-class="fade-out" data-animsition-out-duration="1000">
 					<div class="bloc-img">
 						<img src="./src/images/accueil/Trendee.png" alt="">
 					</div>
@@ -22,7 +22,7 @@
 					</div>
 				</a>
 
-				<a href="pages/pocketcare" class="bloc-content">
+				<a href="pages/pocketcare" class="bloc-content animsition-link" data-animsition-out-class="fade-out" data-animsition-out-duration="1000">
 					<div class="bloc-img">
 						<img src="./src/images/accueil/Pocketcare.png" alt="">
 					</div>
@@ -32,7 +32,7 @@
 					</div>
 				</a>
 
-				<a href="pages/oruro" class="bloc-content">
+				<a href="pages/oruro" class="bloc-content animsition-link" data-animsition-out-class="fade-out" data-animsition-out-duration="1000">
 					<div class="bloc-img">
 						<img src="./src/images/accueil/Oruro.png" alt="">
 					</div>
@@ -42,7 +42,7 @@
 					</div>
 				</a>
 
-				<a href="pages/cafe_arabe" class="bloc-content">
+				<a href="pages/cafe_arabe" class="bloc-content animsition-link" data-animsition-out-class="fade-out" data-animsition-out-duration="1000">
 					<div class="bloc-img">
 						<img src="./src/images/accueil/Café-arabe.png" alt="">
 					</div>
@@ -52,7 +52,7 @@
 					</div>
 				</a>
 
-				<a href="pages/mandala" class="bloc-content">
+				<a href="pages/mandala" class="bloc-content animsition-link" data-animsition-out-class="fade-out" data-animsition-out-duration="1000">
 					<div class="bloc-img">
 						<img src="./src/images/accueil/Mandala.png" alt="">
 					</div>

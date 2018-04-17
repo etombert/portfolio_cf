@@ -14,6 +14,10 @@
       top: 0px;
       width: 100%;
       height: 100%;
+
+      @media screen and (max-width: 768px) {
+        content: none;
+      }
     }
 
     &:after {
@@ -31,7 +35,7 @@
       @extend .center;
       @include translate(-50%,-65%);
       width: 100%;
-      max-width: 965px;
+      max-width: 845px;
       z-index: 10;
 
       h2 {
@@ -130,10 +134,12 @@
       position: relative;
       display: flex;
       align-items: center;
-      margin: 150px 0;
+      margin: 150px auto;
+      width: 100%;
+      max-width: 1320px;
 
       &:nth-child(1) {
-        margin: 0 0 60px 0;
+        margin: 0 auto 60px;
       }
 
       &:nth-child(even) {

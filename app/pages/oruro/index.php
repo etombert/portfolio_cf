@@ -15,7 +15,7 @@
                             </div>
                             <div class="bloc-info_content">
                                 <h3>Client</h3>
-                                <p>HETIC</p>
+                                <p>UNESCO</p>
                             </div>
                             <div class="bloc-info_content">
                                 <h3>Year</h3>
@@ -61,7 +61,7 @@
 
 				<div class="bloc-browse_container">
 
-                    <a href="../pocketcare" class="bloc-content pocketcare">
+                    <a href="../pocketcare" class="bloc-content pocketcare animsition-link" data-animsition-out-class="fade-out" data-animsition-out-duration="1000">
                         <div class="bloc-img">
                             <div class="bloc-img-bg"></div>
                         </div>
@@ -71,7 +71,7 @@
                         </div>
                     </a>
 
-                    <a href="../trendee" class="bloc-content trendee">
+                    <a href="../trendee" class="bloc-content trendee animsition-link" data-animsition-out-class="fade-out" data-animsition-out-duration="1000">
                         <div class="bloc-img">
                             <div class="bloc-img-bg"></div>
                         </div>
@@ -81,7 +81,7 @@
                         </div>
                     </a>
 
-                    <a href="../cafe_arabe" class="bloc-content cafe">
+                    <a href="../cafe_arabe" class="bloc-content cafe animsition-link" data-animsition-out-class="fade-out" data-animsition-out-duration="1000">
                         <div class="bloc-img">
                             <div class="bloc-img-bg"></div>
                         </div>
@@ -91,7 +91,7 @@
                         </div>
                     </a>
 
-                    <a href="../mandala" class="bloc-content mandala">
+                    <a href="../mandala" class="bloc-content mandala animsition-link" data-animsition-out-class="fade-out" data-animsition-out-duration="1000">
                         <div class="bloc-img">
                             <div class="bloc-img-bg"></div>
                         </div>

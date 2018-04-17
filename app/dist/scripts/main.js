@@ -46,4 +46,17 @@ $(document).ready(function(){
         $('.menu-list').slideToggle('down');
     });
 
+    $(window).resize(function(){
+        if ($(window).width() > 768) {
+            //alert('Less than 960');
+            $('.menu-list').show();
+        } else if ($(window).width() < 768) {
+            $('.menu-list').hide();
+        }
+    });
+
+    if(window.location.href.indexOf("/#section-2") >= 0) {
+        $('.bloc-content').removeClass('hideme');
+    }
+
 });

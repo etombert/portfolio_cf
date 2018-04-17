@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="fr">
 <head>
-    <title>Portfolio | Clara Foggetti</title>
+    <title>Clara Foggetti – Freelance Product Designer & Creative Student</title>
 
     <!-- META -->
     <meta charset="utf-8">
@@ -14,7 +14,18 @@
     <meta property="og:image" content="http://" />
 
     <!-- FAVICON -->
-    <link rel="shortcut icon" type="image/x-icon" href="nav-icon.png">
+    <?php
+
+    if(strpos($_SERVER['REQUEST_URI'], 'pages') !== false) {
+
+        echo '<link rel="shortcut icon" type="image/x-icon" href="../../nav-icon.png">';
+
+    } elseif(strpos($_SERVER['REQUEST_URI'], '/') !== false) {
+
+        echo '<link rel="shortcut icon" type="image/x-icon" href="nav-icon.png">';
+
+    }
+    ?>
 
     <!-- CDN -->
     <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
@@ -26,10 +37,12 @@
     if(strpos($_SERVER['REQUEST_URI'], 'pages') !== false) {
 
             echo '<link rel="stylesheet" href="../../dist/styles/styles.min.css" type="text/css" media="screen">';
+            echo '<link rel="stylesheet" href="../../dist/styles/plugins/animsition/animsition.css" type="text/css" media="screen">';
 
         } elseif(strpos($_SERVER['REQUEST_URI'], '/') !== false) {
 
             echo '<link rel="stylesheet" href="./dist/styles/styles.min.css" type="text/css" media="screen">';
+            echo '<link rel="stylesheet" href="./dist/styles/plugins/animsition/animsition.css" type="text/css" media="screen">';
 
         }
     ?>
@@ -38,18 +51,18 @@
 </head>
 
 
-<body>
+<body class="animsition" data-animsition-in-class="fade-in" data-animsition-in-duration="1000" data-animsition-out-class="fade-out" data-animsition-out-duration="800">
     <header>
         <nav>
             <div class="bloc-left">
                 <?php
                     if(strpos($_SERVER['REQUEST_URI'], 'pages') !== false) {
 
-                        echo '<a href=""><img src="../../src/images/header/logo.png" alt=""></a>';
+                        echo '<a href="../../"><img src="../../src/images/header/logo.png" alt=""></a>';
 
                     } elseif(strpos($_SERVER['REQUEST_URI'], '/') !== false) {
 
-                        echo '<a href=""><img src="./src/images/header/logo.png" alt=""></a>';
+                        echo '<a href="#"><img src="./src/images/header/logo.png" alt=""></a>';
 
                     }
                 ?>
@@ -63,17 +76,17 @@
                     <?php
                     if(strpos($_SERVER['REQUEST_URI'], 'pages') !== false) {
 
-                        echo '                    <ul>
-                        <li><a href="../../#section-2">Work</a></li>
-                        <li><a href="../../pages/about">About</a></li>
+                        echo '<ul>
+                        <li><a href="../../#section-2" class="animsition-link" data-animsition-out-class="fade-out" data-animsition-out-duration="1000">Work</a></li>
+                        <li><a href="../../pages/about" class="animsition-link" data-animsition-out-class="fade-out" data-animsition-out-duration="1000">About</a></li>
                         <li><a href="mailto:clara.foggetti@hetic.net" class="contact">Contact</a></li>
                     </ul>';
 
                     } elseif(strpos($_SERVER['REQUEST_URI'], '/') !== false) {
 
                         echo '<ul>
-                        <li><a href="#section-2">Work</a></li>
-                        <li><a href="pages/about">About</a></li>
+                        <li><a href="#section-2" class="scrollTo">Work</a></li>
+                        <li><a href="pages/about" class="animsition-link" data-animsition-out-class="fade-out" data-animsition-out-duration="1000">About</a></li>
                         <li><a href="mailto:clara.foggetti@hetic.net" class="contact">Contact</a></li>
                     </ul>';
 

@@ -108,7 +108,7 @@
 
 				<div class="bloc-browse_container">
 
-					<a href="../oruro" class="bloc-content oruro">
+					<a href="../oruro" class="bloc-content oruro animsition-link" data-animsition-out-class="fade-out" data-animsition-out-duration="1000">
 						<div class="bloc-img">
                             <div class="bloc-img-bg"></div>
                         </div>
@@ -118,7 +118,7 @@
 						</div>
 					</a>
 
-                    <a href="../pocketcare" class="bloc-content pocketcare">
+                    <a href="../pocketcare" class="bloc-content pocketcare animsition-link" data-animsition-out-class="fade-out" data-animsition-out-duration="1000">
                         <div class="bloc-img">
                             <div class="bloc-img-bg"></div>
                         </div>
@@ -128,7 +128,7 @@
                         </div>
                     </a>
 
-                    <a href="../cafe_arabe" class="bloc-content cafe">
+                    <a href="../cafe_arabe" class="bloc-content cafe animsition-link" data-animsition-out-class="fade-out" data-animsition-out-duration="1000">
                         <div class="bloc-img">
                             <div class="bloc-img-bg"></div>
                         </div>
@@ -138,7 +138,7 @@
                         </div>
                     </a>
 
-                    <a href="../mandala" class="bloc-content mandala">
+                    <a href="../mandala" class="bloc-content mandala animsition-link" data-animsition-out-class="fade-out" data-animsition-out-duration="1000">
                         <div class="bloc-img">
                             <div class="bloc-img-bg"></div>
                         </div>
