@@ -17,6 +17,33 @@
 .hidden {
   overflow: hidden; }
 
+/* Underline From Left */
+.hvr-underline-from-left {
+  display: inline-block;
+  vertical-align: middle;
+  -webkit-transform: perspective(1px) translateZ(0);
+  transform: perspective(1px) translateZ(0);
+  box-shadow: 0 0 1px transparent;
+  position: relative;
+  overflow: hidden; }
+  .hvr-underline-from-left:before {
+    content: "";
+    position: absolute;
+    z-index: -1;
+    left: 0;
+    right: 100%;
+    bottom: 0;
+    background: white;
+    height: 4px;
+    -webkit-transition-property: right;
+    transition-property: right;
+    -webkit-transition-duration: 0.3s;
+    transition-duration: 0.3s;
+    -webkit-transition-timing-function: ease-out;
+    transition-timing-function: ease-out; }
+  .hvr-underline-from-left:hover:before, .hvr-underline-from-left:focus:before, .hvr-underline-from-left:active:before {
+    right: 0; }
+
 /*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */
 /**
  * 1. Set default font family to sans-serif.
@@ -773,9 +800,22 @@ footer {
       footer .bloc-contact ul li {
         font-family: 'lulocleanw01-onebold';
         font-size: 11.5px;
-        color: #B5B6B3; }
+        color: #B5B6B3;
+        cursor: pointer;
+        -webkit-transition: all 0.2s ease-in-out;
+        transition: all 0.2s ease-in-out; }
+        footer .bloc-contact ul li:hover {
+          color: #fff; }
         footer .bloc-contact ul li a {
-          color: #B5B6B3; }
+          color: #B5B6B3;
+          padding: 0 0 5px;
+          -webkit-transition: all 0.2s ease-in-out;
+          transition: all 0.2s ease-in-out; }
+          footer .bloc-contact ul li a:hover {
+            color: #fff; }
+        @media screen and (max-width: 768px) {
+          footer .bloc-contact ul li:nth-child(3) {
+            color: #00BFFF; } }
     @media screen and (max-width: 1050px) {
       footer .bloc-contact {
         -webkit-box-pack: center;
@@ -2004,7 +2044,7 @@ footer {
   .oruro .section-3 .bloc-text {
     text-align: center;
     width: 100%;
-    max-width: 479px; }
+    max-width: 700px; }
   .oruro .section-3 h3 {
     color: #B5B6B3;
     text-transform: uppercase;
@@ -2019,7 +2059,11 @@ footer {
       max-width: 310px;
       padding: 0 50px; }
       .oruro .section-3 .bloc-text h3 {
-        font-size: 1em; } }
+        font-size: 0.8em;
+        margin-bottom: 30px; }
+      .oruro .section-3 .bloc-text p {
+        line-height: 26px;
+        font-size: 16px; } }
 
 .oruro .section-4 {
   height: 100vh;
@@ -2368,7 +2412,7 @@ footer {
   .mandala .section-5 .bloc-text {
     text-align: center;
     width: 100%;
-    max-width: 680px; }
+    max-width: 479px; }
   .mandala .section-5 h3 {
     color: #B5B6B3;
     text-transform: uppercase;

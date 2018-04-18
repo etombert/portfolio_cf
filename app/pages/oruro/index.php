@@ -49,8 +49,8 @@
 
             <section class="section-3">
                 <div class="bloc-text">
-                    <h3>Share and tag your outfits</h3>
-                    <p>You can post your favorite looks after tagging the clothes you wear. Over a period of time, users select the outfits they prefer and reward the authors. In your trend line, always discover the accumulation of the most beautiful looks of the previous days.</p>
+                    <h3>MASTERPIECES OF THE ORAL AND INTANGIBLE HERITAGE</h3>
+                    <p>Twenty years ago, UNESCO created an international distinction to highlight the most remarkable forms of cultural heritage around the world : the masterpieces of oral and intangible heritage. These works are all ceremonies, know-how and traditions that we pass on from generation to generation. As they are intangible, they are extremely fragile. Today, 470 works are listed and more than 150 countries have raked the convention which aims to protect them.</p>
                 </div>
             </section>
 

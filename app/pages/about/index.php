@@ -12,7 +12,7 @@
 
                     <div class="bloc-text">
                         <h3>know more about me</h3>
-                        <p>I blossom everyday in mastering my skills as a designer, creative thinker and web child in general. I am an eager-to-learn person, in life as well as in my work. I am lead by an insatiable curiosity.</p>
+                        <p>I blossom everyday in mastering my skills as a designer, creative thinker and web child. I am an eager-to-learn person, in life as well as in my work. I am lead by an insatiable curiosity.</p>
                     </div>
 
                     <div class="bloc-text">

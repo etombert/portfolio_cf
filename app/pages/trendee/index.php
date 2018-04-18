@@ -80,7 +80,7 @@
 			<section class="section-6">
 				<div class="bloc-text">
 					<h3>SHARE AND TAG YOUR OUTFITS</h3>
-                    <p>You can post your favorite looks after tagging the clothes you wear. Over a period of time, users select the outfits they prefer and reward the authors. Your trend line will allow you to discover the accumulation of the most beautiful looks of the previous days.</p>
+                    <p>You can post your favorite looks after tagging the clothes you wear. Over a period of time, users select the outfits they prefer and reward the authors. Your trend line will allow you to discover the accumulation of the best looks of the previous days.</p>
 				</div>
 			</section>
 

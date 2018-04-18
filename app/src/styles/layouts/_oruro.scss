@@ -183,7 +183,7 @@
     .bloc-text {
       text-align: center;
       width: 100%;
-      max-width: 479px;
+      max-width: 700px;
     }
 
     h3 {
@@ -205,7 +205,13 @@
         padding: 0 50px;
 
         h3 {
-          font-size: 1em;
+          font-size: 0.8em;
+          margin-bottom: 30px;
+        }
+
+        p {
+          line-height: 26px;
+          font-size: 16px;
         }
       }
     }

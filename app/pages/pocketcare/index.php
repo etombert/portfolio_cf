@@ -54,7 +54,7 @@
                 <div class="bloc-content">
                     <div class="bloc-img">
                         <img src="../../src/images/pocketcare/IMG-header-pocketcare.png" alt="">
-                        <video src="../../src/images/pocketcare/video/1-onboarding.mov" loop autoplay></video>
+                        <video src="../../src/images/pocketcare/video/1-onboarding.mp4" loop autoplay></video>
                     </div>
 
                     <div class="bloc-text">
@@ -77,7 +77,7 @@
                 <div class="bloc-content">
                     <div class="bloc-img">
                         <img src="../../src/images/pocketcare/IMG-header-pocketcare.png" alt="">
-                        <video src="../../src/images/pocketcare/video/2-rappels-médocs.mov" loop autoplay></video>
+                        <video src="../../src/images/pocketcare/video/2-rappels-médocs.mp4" loop autoplay></video>
                     </div>
 
                     <div class="bloc-text">
@@ -108,7 +108,7 @@
                 <div class="bloc-content">
                     <div class="bloc-img">
                         <img src="../../src/images/pocketcare/IMG-header-pocketcare.png" alt="">
-                        <video src="../../src/images/pocketcare/video/3-cartes.mov" loop autoplay></video>
+                        <video src="../../src/images/pocketcare/video/3-cartes.mp4" loop autoplay></video>
                     </div>
 
                     <div class="bloc-text">
@@ -130,7 +130,7 @@
                 <div class="bloc-content">
                     <div class="bloc-img">
                         <img src="../../src/images/pocketcare/IMG-header-pocketcare.png" alt="">
-                        <video src="../../src/images/pocketcare/video/4-ordonnances.mov" loop autoplay></video>
+                        <video src="../../src/images/pocketcare/video/4-ordonnances.mp4" loop autoplay></video>
                     </div>
 
                     <div class="bloc-text">

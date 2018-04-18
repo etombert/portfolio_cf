@@ -72,9 +72,27 @@ footer {
         font-family: 'lulocleanw01-onebold';
         font-size: 11.5px;
         color: #B5B6B3;
+        cursor: pointer;
+        @include transition(all 0.2s ease-in-out);
         
+        &:hover {
+          color: #fff;
+        }
+
         a {
           color: #B5B6B3;
+          padding: 0 0 5px;
+          @include transition(all 0.2s ease-in-out);
+
+          &:hover {
+            color: #fff;
+          }
+        }
+
+        @media screen and (max-width: 768px) {
+          &:nth-child(3) {
+            color: #00BFFF;
+          }
         }
       }
     }

@@ -5,7 +5,7 @@
         <div class="bloc-contact">
             <ul>
                 <li><a href="https://www.linkedin.com/in/clarafoggetti/" target="_blank">Linkedin</a></li>
-                <li>Available for freelance</li>
+                <li><a href="mailto:clara.foggetti@hetic.net">Available for freelance</a></li>
                 <li>+33 (0)6 73 69 32 08</li>
             </ul>
         </div>
@@ -38,17 +38,6 @@
         });
 
     </script>
-
-    <!-- Global site tag (gtag.js) - Google Analytics -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-117696680-1"></script>
-    <script>
-        window.dataLayer = window.dataLayer || [];
-        function gtag(){dataLayer.push(arguments);}
-        gtag('js', new Date());
-
-        gtag('config', 'UA-117696680-1');
-    </script>
-
 
 
     <?php
