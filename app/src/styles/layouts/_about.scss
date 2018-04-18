@@ -1,12 +1,12 @@
 .about {
   .about-container {
     display: flex;
-    height: 1340px;
     padding-top: 91px;
   }
 
   .section-left {
     width: 60.5%;
+    padding: 100px 0;
 
     .bloc-text {
       display: flex;
@@ -40,7 +40,6 @@
 
   .section-right {
     width: 40%;
-    height: 100%;
     background: url(../../src/images/about/background.jpg) center no-repeat;
     background-size: cover;
   }
@@ -51,6 +50,7 @@
     }
     .section-left {
       width: 100%;
+      padding: 0;
     }
   }
 

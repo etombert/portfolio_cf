@@ -43,6 +43,7 @@ $(document).ready(function(){
 // BURGER
     $(".burger-menu").click(function () {
         $(this).toggleClass("menu-on");
+        $('html, body').toggleClass('hidden');
         $('.menu-list').slideToggle('down');
     });
 

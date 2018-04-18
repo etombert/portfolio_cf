@@ -1,6 +1,6 @@
     <footer>
         <div class="bloc-content">
-            <h2>I'm looking for a 4 month internship as a PRODUCT designer starting in July 2018.</h2>
+            <h2>I'M LOOKING FOR A 4-MONTH INTERNSHIP STARTING IN JULY 2018 AS A PRODUCT DESIGNER.</h2>
         </div>
         <div class="bloc-contact">
             <ul>
@@ -37,28 +37,32 @@
             });
         });
 
-        /*$(document).ready(function(){
-            // Parallax
-            $('.parallax-window').parallax({imageSrc:
-                '../../src/images/trendee/IMG-footer-trendee.png',
-                '../../src/images/pocketcare/IMG-footer-Pocketcare.png',
-                '../../src/images/oruro/IMG-footer-Oruro.png',
-                '../../src/images/cafe_arabe/IMG-footer-Cafe.png',
-                '../../src/images/mandala/IMG-footer-Mandala.jpg'
-            });
-        });*/
     </script>
+
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-117696680-1"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'UA-117696680-1');
+    </script>
+
+
 
     <?php
     if(strpos($_SERVER['REQUEST_URI'], 'pages') !== false) {
 
         echo '<script type="text/javascript" src="../../dist/scripts/main.js"></script>';
+        echo '<script type="text/javascript" src="../../dist/scripts/parallax-call.js"></script>';
         echo '<script type="text/javascript" src="../../dist/scripts/parallax.min.js"></script>';
         echo '<script type="text/javascript" src="../../dist/scripts/animsition.min.js"></script>';
 
     } elseif(strpos($_SERVER['REQUEST_URI'], '/') !== false) {
 
         echo '<script type="text/javascript" src="./dist/scripts/main.js"></script>';
+        echo '<script type="text/javascript" src="./dist/scripts/parallax-call.js"></script>';
         echo '<script type="text/javascript" src="./dist/scripts/parallax.min.js"></script>';
         echo '<script type="text/javascript" src="./dist/scripts/animsition.min.js"></script>';
 

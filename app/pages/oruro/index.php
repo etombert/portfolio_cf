@@ -6,7 +6,7 @@
                 <div class="bloc-container">
                     <div class="bloc-text">
                         <h2>Carnaval d’Oruro</h2>
-                        <p class="bloc-paragraph">Every year in February, just before entering Lent, this Bolivian mining town comes out of its torpor to host the biggest event in the country. This intense spectacle that embodies the faith of Bolivians sees the intermingling of pagan and Christian beliefs, folklore and furious dances.</p>
+                        <p class="bloc-paragraph">Every year in February, just before entering Lent, this Bolivian mining town comes out of its torpor to host the biggest event in the country. This magnificent festival embodies the faith of Bolivians - which is an intermingling of Pagan and Christian beliefs - through performances of folk and wild dances.</p>
 
                         <div class="bloc-info">
                             <div class="bloc-info_content">

@@ -136,6 +136,10 @@
         font-size: 2.5em;
       }
 
+      .bloc-container {
+        padding: 0;
+      }
+
       .bloc-text {
         // margin: 0 100px;
         max-width: 300px;
@@ -331,10 +335,11 @@
       max-width: 357px;
 
       h3 {
+        margin: 25px 0;
         color: #B5B6B3;
         text-transform: uppercase;
-        font-size: 14px;
-        font-family: 'lulocleanw01-onebold';
+        font-family: lulocleanw01-onebold;
+        font-size: 11.5px;
       }
 
       p {

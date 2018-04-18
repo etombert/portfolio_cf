@@ -6,7 +6,7 @@
                 <div class="bloc-container">
                     <div class="bloc-text">
                         <h2>Trendee</h2>
-                        <p class="bloc-paragraph">Being fashionable is the concern of many women today, but it's not always easy to find one's style or inspiration. With Trendee nothing is more simple, you can follow your favorite influencers and view, click and buy the items worn by them to always be at the forefront of fashion.</p>
+                        <p class="bloc-paragraph">Being fashionable is the concern of many women today, but finding your own style or inspiration is not always so easy. With Trendee nothing is more simple, you can follow your favorite influencers and view, click and buy the items worn by them and be sure that you will always be at the forefront of fashion.</p>
 
                         <div class="bloc-info">
                             <div class="bloc-info_content">
@@ -49,8 +49,8 @@
 
 			<section class="section-3">
 				<div class="bloc-text">
-					<h3>Challenge users by posting looks</h3>
-					<p>Over a period of time users select the three looks that have the most like to be among the tops looks. Each outfit will receive a number of like. The three looks that will have the most of like will be the winners. Each user will accumulate points according to his activity and according to a scale.</p>
+					<h3>CHALLENGE USERS BY POSTING LOOKS</h3>
+					<p>Over a period of time users select the three looks which are most likely to be among the top looks. Each outfit will receive a number of likes. The three looks which get the highest numbers of likes will be the winners. Each user will accumulate points according to his activity and according to a scale.</p>
 				</div>
 			</section>
 
@@ -63,8 +63,8 @@
 					</div>
 
 					<div class="bloc-text">
-						<h3>The look in one click</h3>
-						<p>Trendee is an innovative and free mobile application that allows its fashion enthusiast community to discover the new outfits presented by influencers, identify and purchase the items that make up every look.</p>
+						<h3>THE LOOK IN ONE CLICK</h3>
+                        <p>Trendee is an innovative and free mobile application that allows its enthusiastic fashion community to discover the new outfits presented by influencers, and to identify and purchase the items that make up every look.</p>
 					</div>
 				</div>
 			</section>
@@ -79,8 +79,8 @@
 
 			<section class="section-6">
 				<div class="bloc-text">
-					<h3>Share and tag your outfits</h3>
-					<p>You can post your favorite looks after tagging the clothes you wear. Over a period of time, users select the outfits they prefer and reward the authors. In your trend line, always discover the accumulation of the most beautiful looks of the previous days.</p>
+					<h3>SHARE AND TAG YOUR OUTFITS</h3>
+                    <p>You can post your favorite looks after tagging the clothes you wear. Over a period of time, users select the outfits they prefer and reward the authors. Your trend line will allow you to discover the accumulation of the most beautiful looks of the previous days.</p>
 				</div>
 			</section>
 
@@ -93,8 +93,8 @@
 					</div>
 
 					<div class="bloc-text">
-						<h3>Search all you want</h3>
-						<p>Have you been looking for an outfit for your next outing with your boyfriend ? You have spotted this beautiful yellow bag on a fashionista at the corner of a street, or you want to follow the trends of bloggers ? You are in the right place thanks to our improved search, finding everything you want.</p>
+						<h3>SEARCH ALL YOU WANT</h3>
+                        <p>Have you been looking for an outfit for your next outing with your boyfriend ? You have spotted this beautiful yellow bag on a fashionista at the corner of a street, or you want to follow the trends of bloggers ? Thanks to our improved search you are in the right place to find anything you want.</p>
 					</div>
 				</div>
 			</section>

@@ -4,10 +4,20 @@
 * Page skeleton
 **/
 
+html {
+	overflow-x: hidden !important;
+}
+
 body {
 	color: $black;
 	margin: 0;
-	overflow-x: hidden !important;;
+	overflow-x: hidden !important;
+
+	// BLOC SCROLL LEFT
+	height: 100%;
+	overflow: hidden;
+	width: 100%;
+	position: fixed;
 
 	a {
 		color: black;

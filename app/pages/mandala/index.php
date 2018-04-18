@@ -6,7 +6,7 @@
                 <div class="bloc-container">
                     <div class="bloc-text">
                         <h2>Mandala</h2>
-                        <p class="bloc-paragraph">Organized drawing revolving around a central point, the mandala is a tool that while developing our creativity, allows to focus, to harmonize, to transform. He works on four levels of consciousness and can produce effects on the physical, psychological, psychological and spiritual levels.</p>
+                        <p class="bloc-paragraph">Organized drawing revolving around a central point, the mandala is a tool that while developing our creativity, allows to focus, harmonize and transform. It works on four levels of consciousness and can produce physical, psychological and spiritual effects.</p>
 
                         <div class="bloc-info">
                             <div class="bloc-info_content">
@@ -48,8 +48,8 @@
 
             <section class="section-3">
                 <div class="bloc-text">
-                    <h3>A kind of mapping of our mental state</h3>
-                    <p>Mandalas make it possible to project the conflicts out of ourselves and thus to free us. It is a cartography of our mental state at the moment when we realize the drawing. Very positive results have been observed when using this tool for people suffering from depression or having trouble communicating. Drawing a mandala helps to restore brain balance.</p>
+                    <h3>A KIND OF MAPPING OF OUR MENTAL STATE</h3>
+                    <p>Mandalas make it possible to project the conflicts out of ourselves and thus to free us. It is a cartography of our mental state at the moment we realize the drawing. Very positive results have been observed when using this tool for people suffering from depression or having troubles communicating. Drawing a mandala helps to restore brain balance.</p>
                 </div>
             </section>
 
@@ -62,8 +62,8 @@
 
             <section class="section-5">
                 <div class="bloc-text">
-                    <h3>A spiritual approach with many virtues</h3>
-                    <p>Upon entry into the circle, there is a vibratory change producing the harmonization of dualities and the unification of opposites. Thus, the wounded being can find in the practice of the mandala, a consolation, an understanding of certain events. He who doubts, discovers a certainty, he who weeps, a consolation. It makes it possible to rebalance the energies, then to begin the way of the center.</p>
+                    <h3>A SPIRITUAL APPROACH WITH MANY VIRTUES</h3>
+                    <p>Upon entry into the circle, there is a vibratory change producing the harmonization of dualities and the unification of opposites. Thus, the wounded being can find in the practice of the mandala a consolation, an understanding of certain events. It makes it possible to rebalance the energies, then to begin the way of the center.</p>
                 </div>
             </section>
 

@@ -14,6 +14,9 @@
   -webkit-transform: translate(-50%, -50%);
   transform: translate(-50%, -50%); }
 
+.hidden {
+  overflow: hidden; }
+
 /*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */
 /**
  * 1. Set default font family to sans-serif.
@@ -372,10 +375,17 @@ th {
 /**
 * Page skeleton
 **/
+html {
+  overflow-x: hidden !important; }
+
 body {
   color: #000;
   margin: 0;
-  overflow-x: hidden !important; }
+  overflow-x: hidden !important;
+  height: 100%;
+  overflow: hidden;
+  width: 100%;
+  position: fixed; }
   body a {
     color: black;
     text-decoration: none; }
@@ -698,7 +708,7 @@ header {
 footer {
   position: relative;
   background: black;
-  height: 100vh;
+  padding: 180px 0 80px;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -708,12 +718,17 @@ footer {
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
   text-transform: uppercase;
   color: white; }
   footer .bloc-content {
     width: 100%;
-    max-width: 965px;
-    font-family: 'lulocleanw01-onebold'; }
+    max-width: 995px;
+    font-family: 'lulocleanw01-onebold';
+    margin-bottom: 100px; }
     footer .bloc-content h2 {
       font-size: 44px;
       line-height: 80px;
@@ -735,12 +750,17 @@ footer {
         max-width: 150px;
         font-size: 0.65em; } }
   footer .bloc-contact {
-    position: absolute;
-    bottom: 50px;
-    right: 225px;
     width: 100%;
-    max-width: 560px; }
+    max-width: 995px;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: end;
+        -ms-flex-pack: end;
+            justify-content: flex-end; }
     footer .bloc-contact ul {
+      width: 100%;
+      max-width: 560px;
       padding: 0;
       margin: 0;
       list-style: none;
@@ -758,11 +778,9 @@ footer {
           color: #B5B6B3; }
     @media screen and (max-width: 1050px) {
       footer .bloc-contact {
-        right: 50%;
-        bottom: 0;
-        -webkit-transform: translate(50%, -50%);
-        transform: translate(50%, -50%);
-        max-width: 400px; }
+        -webkit-box-pack: center;
+            -ms-flex-pack: center;
+                justify-content: center; }
         footer .bloc-contact ul {
           -webkit-box-orient: vertical;
           -webkit-box-direction: normal;
@@ -773,17 +791,9 @@ footer {
             margin: 5px 0; } }
   @media screen and (max-width: 768px) {
     footer {
-      -webkit-box-orient: vertical;
-      -webkit-box-direction: normal;
-          -ms-flex-direction: column;
-              flex-direction: column; }
-      footer .bloc-contact {
-        position: static;
-        -webkit-transform: translate(0, 0);
-        transform: translate(0, 0); } }
-  @media (max-width: 768px) and (orientation: landscape) {
-    footer {
-      height: 100%; } }
+      padding: 70px 0; }
+      footer .bloc-content {
+        margin-bottom: 0; } }
 
 .home .section-1 {
   height: 100vh;
@@ -813,7 +823,7 @@ footer {
     -webkit-transform: translate(-50%, -65%);
     transform: translate(-50%, -65%);
     width: 100%;
-    max-width: 845px;
+    max-width: 995px;
     z-index: 10; }
     .home .section-1 .bloc-text h2 {
       text-transform: uppercase;
@@ -973,11 +983,11 @@ footer {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
-  height: 1340px;
   padding-top: 91px; }
 
 .about .section-left {
-  width: 60.5%; }
+  width: 60.5%;
+  padding: 100px 0; }
   .about .section-left .bloc-text {
     display: -webkit-box;
     display: -ms-flexbox;
@@ -1008,7 +1018,6 @@ footer {
 
 .about .section-right {
   width: 40%;
-  height: 100%;
   background: url(../../src/images/about/background.jpg) center no-repeat;
   background-size: cover; }
 
@@ -1016,7 +1025,8 @@ footer {
   .about .section-right {
     display: none; }
   .about .section-left {
-    width: 100%; } }
+    width: 100%;
+    padding: 0; } }
 
 @media screen and (max-width: 768px) {
   .about .bloc-text {
@@ -1139,6 +1149,8 @@ footer {
       line-height: 1.8; }
     .trendee .section-1 h2 {
       font-size: 2.5em; }
+    .trendee .section-1 .bloc-container {
+      padding: 0; }
     .trendee .section-1 .bloc-text {
       max-width: 300px; } }
 
@@ -1461,6 +1473,8 @@ footer {
       line-height: 1.8; }
     .pocketcare .section-1 h2 {
       font-size: 2.5em; }
+    .pocketcare .section-1 .bloc-container {
+      padding: 0; }
     .pocketcare .section-1 .bloc-text {
       max-width: 300px; } }
 
@@ -1628,10 +1642,11 @@ footer {
     width: 100%;
     max-width: 357px; }
     .pocketcare .section-6 .bloc-text h3 {
+      margin: 25px 0;
       color: #B5B6B3;
       text-transform: uppercase;
-      font-size: 14px;
-      font-family: 'lulocleanw01-onebold'; }
+      font-family: lulocleanw01-onebold;
+      font-size: 11.5px; }
     .pocketcare .section-6 .bloc-text p {
       font-family: 'sf-pro-regular';
       line-height: 38px;
@@ -1950,6 +1965,8 @@ footer {
       line-height: 1.8; }
     .oruro .section-1 h2 {
       font-size: 2.5em; }
+    .oruro .section-1 .bloc-container {
+      padding: 0; }
     .oruro .section-1 .bloc-text {
       max-width: 300px; } }
 
@@ -2109,6 +2126,8 @@ footer {
   @media screen and (max-width: 500px) {
     .cafe-arabe .section-1 p.bloc-paragraph {
       line-height: 1.8; }
+    .cafe-arabe .section-1 .bloc-container {
+      padding: 0; }
     .cafe-arabe .section-1 h2 {
       font-size: 2.5em; }
     .cafe-arabe .section-1 .bloc-text {
@@ -2272,6 +2291,8 @@ footer {
       line-height: 1.8; }
     .mandala .section-1 h2 {
       font-size: 2.5em; }
+    .mandala .section-1 .bloc-container {
+      padding: 0; }
     .mandala .section-1 .bloc-text {
       max-width: 300px; } }
 

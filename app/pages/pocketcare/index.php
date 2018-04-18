@@ -6,7 +6,7 @@
                 <div class="bloc-container">
                     <div class="bloc-text">
                         <h2>Pocketcare</h2>
-                        <p class="bloc-paragraph">Pocketcare is a health application dedicated to the family. It centralizes all health cards (vital and mutual card) and prescriptions. Pocketcare also saves time for patients and healthcare professionals, while limiting prescription-related medical errors.</p>
+                        <p class="bloc-paragraph">Pocketcare is a health application dedicated to the family. It centralizes all health cards (vital and mutual cards - French health insurance cards - or supplementary health insurance cards) and prescriptions. Pocketcare also saves time for patients and healthcare professionals, while limiting prescriptions and related medical errors.</p>
 
                         <div class="bloc-info">
                             <div class="bloc-info_content">
@@ -58,8 +58,8 @@
                     </div>
 
                     <div class="bloc-text">
-                        <h3>Your health is precious</h3>
-                        <p>After registering in a few steps, handling and transporting your medical documents and those of your family becomes simpler. Health becomes dematerialized and easy to handle for everyone thanks to Pocketcare.  </p>
+                        <h3>YOUR HEALTH IS PRECIOUS</h3>
+                        <p>After registering in a few steps, handling and transporting all your medical documents and those of your family becomes much easier. Thanks to Pocketcare health becomes dematerialized and easy to handle.</p>
                     </div>
                 </div>
 
@@ -81,8 +81,8 @@
                     </div>
 
                     <div class="bloc-text">
-                        <h3>Take your medicine properly</h3>
-                        <p>Taking medication and following the treatment prescribed by your doctor when you live a busy life is sometimes difficult. However their respect is essential and to help you Pocketcare offers to activate or not notifications to be informed when it is time to take your medication.</p>
+                        <h3>TAKE YOUR MEDICINE PROPERLY</h3>
+                        <p>Taking medication and following the treatment prescribed by your doctor when you live a busy life is sometimes difficult even if respecting a prescription is essential. To help you, Pocketcare offers to activate or not notifications to be informed when it is time to take your medication.</p>
                     </div>
                 </div>
             </section>
@@ -92,8 +92,8 @@
                 <div class="bloc-content">
 
                     <div class="bloc-text">
-                        <h3>Against forgetting medicines</h3>
-                        <p>A lot of people take it badly or forget to take their medication. To remedy this phenomenon, which can sometimes prove fatal, Pocketcare is there.</p>
+                        <h3>AGAINST FORGETTING MEDICINES</h3>
+                        <p>A lot of people do not take their medications properly or even forget to take them. Pocketcare is there to solve this issue, which can sometimes prove fatal.</p>
                     </div>
 
                     <div class="bloc-img">
@@ -112,8 +112,8 @@
                     </div>
 
                     <div class="bloc-text">
-                        <h3>An essential medical wallet</h3>
-                        <p>With Pocketcare, you can also carry your life and health card directly to your phone. Frequently, forgetting the vital card or the mutual card generates a lengthy procedure that forces the medical secretaries to fill out a care sheet and send an invoice by post.</p>
+                        <h3>AN ESSENTIAL MEDICAL WALLET</h3>
+                        <p>With Pocketcare, you can also carry your social security card - French health card - directly to your phone. Frequently, forgetting the vital card or the mutual card generates a lengthy procedure that forces the medical secretaries to fill out a care sheet and send an invoice by post.</p>
                     </div>
                 </div>
             </section>
@@ -134,8 +134,8 @@
                     </div>
 
                     <div class="bloc-text">
-                        <h3>Minimize medical errors</h3>
-                        <p>Paper prescriptions are a onus for patients who lose them. Handwriting a news piece by doctors takes time. Pharmacists must decipher handwritten prescriptions, often illegible, written by doctors. This increases the risk of medical errors that can be very dangerous.</p>
+                        <h3>MINIMIZE MEDICAL ERRORS</h3>
+                        <p>Carrying paper prescriptions is not very secure : sometimes, patients forget or even lose them. It takes doctors time to handwrite those missing prescriptions again. Pharmacists have also to spend time deciphering handwritten prescriptions, many of them are often unreadable. This increases the risk of medical errors that can be very dangerous.</p>
                     </div>
                 </div>
             </section>
@@ -150,8 +150,8 @@
 
             <section class="section-11">
                 <div class="bloc-text">
-                    <h3>Challenge users by posting looks</h3>
-                    <p>Over a period of time users select the three looks that have the most like to be among the tops looks. Each outfit will receive a number of like. The three looks that will have the most of like will be the winners. Each user will accumulate points according to his activity and according to a scale.</p>
+                    <h3>YOUR HEALTH ALWAYS AT YOUR FINGERTIPS</h3>
+                    <p>Your health and that of your family at hand. You can add and edit your child's data in two stages. The management of the vital and mutual cards and the orders of the whole family becomes possible, and that easily.</p>
                 </div>
             </section>
 
