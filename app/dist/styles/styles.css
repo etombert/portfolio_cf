@@ -821,6 +821,8 @@ footer {
         @media screen and (max-width: 768px) {
           footer .bloc-contact ul li:nth-child(3) {
             color: #00BFFF; }
+            footer .bloc-contact ul li:nth-child(3) a {
+              color: #00BFFF; }
             footer .bloc-contact ul li:nth-child(3):hover {
               color: #00BFFF; } }
     @media screen and (max-width: 1050px) {
