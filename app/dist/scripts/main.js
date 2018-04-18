@@ -3,7 +3,6 @@ $(document).ready(function(){
     // alert('hello');
 
     $('.bloc-content').addClass('hideme');
-    $('.bloc-contact ul li a').addClass('hvr-underline-from-left');
 
     /* FADE // Every time the window is scrolled ... */
     $(window).scroll( function(){

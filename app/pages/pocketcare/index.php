@@ -68,7 +68,7 @@
 
             <section class="section-4">
                 <div class="bloc-img">
-                    <img src="../../src/images/pocketcare/IMG-rappel-médocs.png" alt="">
+                    <img src="../../src/images/pocketcare/IMG-rappel-medocs.png" alt="">
                 </div>
             </section>
 
@@ -77,7 +77,7 @@
                 <div class="bloc-content">
                     <div class="bloc-img">
                         <img src="../../src/images/pocketcare/IMG-header-pocketcare.png" alt="">
-                        <video src="../../src/images/pocketcare/video/2-rappels-médocs.mp4" loop autoplay></video>
+                        <video src="../../src/images/pocketcare/video/2-rappels-medocs.mp4" loop autoplay></video>
                     </div>
 
                     <div class="bloc-text">
@@ -97,7 +97,7 @@
                     </div>
 
                     <div class="bloc-img">
-                        <img src="../../src/images/pocketcare/IMG-rappel-médocs-2.png" alt="">
+                        <img src="../../src/images/pocketcare/IMG-rappel-medocs-2.png" alt="">
                     </div>
 
                 </div>

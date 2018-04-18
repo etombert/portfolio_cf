@@ -17,7 +17,7 @@
 
                     <div class="bloc-text">
                         <h3>experience & internship</h3>
-                        <p>Last year, I was an intern in the <strong>Trendee</strong> start-up as a Mobile Designer. It allowed me to improve new skills and discover incredible people. At the moment, I am looking for an internship as a Product Designer from July 2nd to October 19th 2018 in New York.</p>
+                        <p>Last year, I was an intern in the <strong>Trendee</strong> start-up as a Creative Designer. It allowed me to improve new skills and discover incredible people. At the moment, I am looking for an internship as a Product Designer from July 2nd to October 19th 2018 in New York.</p>
                     </div>
 
                     <div class="bloc-text">

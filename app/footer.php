@@ -4,9 +4,9 @@
         </div>
         <div class="bloc-contact">
             <ul>
-                <li><a href="https://www.linkedin.com/in/clarafoggetti/" target="_blank">Linkedin</a></li>
-                <li><a href="mailto:clara.foggetti@hetic.net">Available for freelance</a></li>
-                <li>+33 (0)6 73 69 32 08</li>
+                <li><a href="https://www.linkedin.com/in/clarafoggetti/" target="_blank" class="hvr-underline-from-left">Linkedin</a></li>
+                <li><a href="mailto:clara.foggetti@hetic.net" class="hvr-underline-from-left">Available for freelance</a></li>
+                <li><a href="tel:+336673693208"></a>+33 (0)6 73 69 32 08</li>
             </ul>
         </div>
     </footer>

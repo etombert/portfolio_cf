@@ -804,6 +804,11 @@ footer {
         cursor: pointer;
         -webkit-transition: all 0.2s ease-in-out;
         transition: all 0.2s ease-in-out; }
+        footer .bloc-contact ul li:nth-child(3) {
+          cursor: initial; }
+          footer .bloc-contact ul li:nth-child(3):hover {
+            color: #B5B6B3;
+            cursor: initial; }
         footer .bloc-contact ul li:hover {
           color: #fff; }
         footer .bloc-contact ul li a {
@@ -815,7 +820,9 @@ footer {
             color: #fff; }
         @media screen and (max-width: 768px) {
           footer .bloc-contact ul li:nth-child(3) {
-            color: #00BFFF; } }
+            color: #00BFFF; }
+            footer .bloc-contact ul li:nth-child(3):hover {
+              color: #00BFFF; } }
     @media screen and (max-width: 1050px) {
       footer .bloc-contact {
         -webkit-box-pack: center;
@@ -2211,7 +2218,7 @@ footer {
   .cafe-arabe .section-3 .bloc-text {
     text-align: center;
     width: 100%;
-    max-width: 479px; }
+    max-width: 700px; }
   .cafe-arabe .section-3 h3 {
     color: #B5B6B3;
     text-transform: uppercase;
@@ -2226,7 +2233,11 @@ footer {
       max-width: 310px;
       padding: 0 50px; }
       .cafe-arabe .section-3 .bloc-text h3 {
-        font-size: 1em; } }
+        font-size: 0.8em;
+        margin-bottom: 30px; }
+      .cafe-arabe .section-3 .bloc-text p {
+        line-height: 26px;
+        font-size: 16px; } }
 
 .cafe-arabe .section-4 {
   height: 100vh;

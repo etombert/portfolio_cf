@@ -74,6 +74,15 @@ footer {
         color: #B5B6B3;
         cursor: pointer;
         @include transition(all 0.2s ease-in-out);
+
+        &:nth-child(3) {
+          cursor: initial;
+
+          &:hover {
+            color: #B5B6B3;
+            cursor: initial;
+          }
+        }
         
         &:hover {
           color: #fff;
@@ -92,6 +101,11 @@ footer {
         @media screen and (max-width: 768px) {
           &:nth-child(3) {
             color: #00BFFF;
+
+            &:hover {
+              color: #00BFFF;
+            }
+
           }
         }
       }
