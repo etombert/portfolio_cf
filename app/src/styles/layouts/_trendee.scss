@@ -191,10 +191,6 @@
       .bloc-text {
         max-width: 310px;
         padding: 0 50px;
-
-        h3 {
-          font-size: 1em;
-        }
       }
     }
   }
@@ -301,14 +297,10 @@
       font-size: 26px;
     }
 
-    @media screen and (max-width: 500px) {
+    @media screen and (max-width: 600px) {
       .bloc-text {
         max-width: 310px;
         padding: 0 50px;
-
-        h3 {
-          font-size: 1em;
-        }
       }
     }
 

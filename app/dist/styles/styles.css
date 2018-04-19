@@ -1239,9 +1239,7 @@ footer {
   @media screen and (max-width: 600px) {
     .trendee .section-3 .bloc-text {
       max-width: 310px;
-      padding: 0 50px; }
-      .trendee .section-3 .bloc-text h3 {
-        font-size: 1em; } }
+      padding: 0 50px; } }
 
 .trendee .section-4 {
   padding: 150px 0;
@@ -1335,12 +1333,10 @@ footer {
     line-height: 38px;
     font-family: 'sf-pro-regular';
     font-size: 26px; }
-  @media screen and (max-width: 500px) {
+  @media screen and (max-width: 600px) {
     .trendee .section-6 .bloc-text {
       max-width: 310px;
-      padding: 0 50px; }
-      .trendee .section-6 .bloc-text h3 {
-        font-size: 1em; } }
+      padding: 0 50px; } }
 
 .trendee .section-7 {
   padding: 150px 0;
@@ -1875,12 +1871,10 @@ footer {
     line-height: 38px;
     font-family: 'sf-pro-regular';
     font-size: 26px; }
-  @media screen and (max-width: 500px) {
+  @media screen and (max-width: 600px) {
     .pocketcare .section-11 .bloc-text {
       max-width: 310px;
-      padding: 0 50px; }
-      .pocketcare .section-11 .bloc-text h3 {
-        font-size: 1em; } }
+      padding: 0 50px; } }
 
 .pocketcare .section-12 {
   height: 100vh;
@@ -2053,7 +2047,7 @@ footer {
       max-width: 310px;
       padding: 0 50px; }
       .oruro .section-3 .bloc-text h3 {
-        font-size: 0.8em;
+        font-size: 10px;
         margin-bottom: 30px; }
       .oruro .section-3 .bloc-text p {
         line-height: 26px;
@@ -2220,7 +2214,7 @@ footer {
       max-width: 310px;
       padding: 0 50px; }
       .cafe-arabe .section-3 .bloc-text h3 {
-        font-size: 0.8em;
+        font-size: 10px;
         margin-bottom: 30px; }
       .cafe-arabe .section-3 .bloc-text p {
         line-height: 26px;
@@ -2366,7 +2360,7 @@ footer {
   .mandala .section-3 .bloc-text {
     text-align: center;
     width: 100%;
-    max-width: 680px; }
+    max-width: 700px; }
   .mandala .section-3 h3 {
     color: #B5B6B3;
     text-transform: uppercase;
@@ -2376,12 +2370,16 @@ footer {
     line-height: 38px;
     font-family: 'sf-pro-regular';
     font-size: 26px; }
-  @media screen and (max-width: 500px) {
+  @media screen and (max-width: 600px) {
     .mandala .section-3 .bloc-text {
       max-width: 310px;
       padding: 0 50px; }
       .mandala .section-3 .bloc-text h3 {
-        font-size: 1em; } }
+        font-size: 10px;
+        margin-bottom: 30px; }
+      .mandala .section-3 .bloc-text p {
+        line-height: 26px;
+        font-size: 16px; } }
 
 .mandala .section-4 {
   width: 100%; }
@@ -2410,7 +2408,7 @@ footer {
   .mandala .section-5 .bloc-text {
     text-align: center;
     width: 100%;
-    max-width: 479px; }
+    max-width: 700px; }
   .mandala .section-5 h3 {
     color: #B5B6B3;
     text-transform: uppercase;
@@ -2420,12 +2418,16 @@ footer {
     line-height: 38px;
     font-family: 'sf-pro-regular';
     font-size: 26px; }
-  @media screen and (max-width: 500px) {
+  @media screen and (max-width: 600px) {
     .mandala .section-5 .bloc-text {
       max-width: 310px;
       padding: 0 50px; }
       .mandala .section-5 .bloc-text h3 {
-        font-size: 1em; } }
+        font-size: 10px;
+        margin-bottom: 30px; }
+      .mandala .section-5 .bloc-text p {
+        line-height: 26px;
+        font-size: 16px; } }
 
 .mandala .section-6 {
   height: 100vh; }
