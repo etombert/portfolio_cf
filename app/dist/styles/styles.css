@@ -555,7 +555,7 @@ body {
         font-size: 1.5em; } }
     @media screen and (max-width: 500px) {
       body .section-browse p {
-        font-size: 0.9em !important;
+        font-size: 1.150em !important;
         line-height: 1.5 !important; } }
 
 header {
@@ -1413,7 +1413,7 @@ footer {
 
 @media screen and (max-width: 500px) {
   .trendee p {
-    font-size: 0.9em !important;
+    font-size: 1em !important;
     line-height: 1.5 !important; } }
 
 .pocketcare h3 {
