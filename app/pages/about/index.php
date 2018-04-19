@@ -1,6 +1,6 @@
     <?php include '../../head.php';?>
 
-		<main class="about">
+		<main class="about animsition" data-animsition-in-class="fade-in" data-animsition-in-duration="1000" data-animsition-out-class="fade-out" data-animsition-out-duration="800">
 
             <div class="about-container">
                 <section class="section-left">
@@ -22,7 +22,7 @@
 
                     <div class="bloc-text">
                         <h3>project & contact</h3>
-                        <p>If you want to contact me for freelance projects, whether large or small, feel free to contact me by <strong>email :</strong> clara.foggetti@hetic.net.</p>
+                        <p>If you want to contact me for freelance projects, whether large or small, feel free to contact me by <strong>email :</strong> clara.foggetti@hetic.net</p>
                     </div>
 
                 </section>

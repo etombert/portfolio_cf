@@ -146,10 +146,12 @@
         flex-direction: row-reverse;
 
         .bloc-text {
-          @include translate(-89.5%,-50%);
+          // @include translate(-89.5%,-50%);
+          position: relative;
+          left: 140px;
         }
 
-        @media screen and (max-width: 650px) {
+        @media screen and (max-width: 830px) {
           &:nth-child(even) {
             flex-direction: column;
 
@@ -172,10 +174,8 @@
     }
 
     .bloc-text {
-      position: absolute;
-      top: 50%;
-      left: 50%;
-      @include translate(10%,-50%);
+      position: relative;
+      left: -75px;
       width: 100%;
       max-width: 320px;
 
@@ -216,7 +216,7 @@
       letter-spacing: 2.5px;
     }
 
-    @media screen and (max-width: 650px) {
+    @media screen and (max-width: 830px) {
       padding: 0;
 
       .bloc-content {

@@ -37,12 +37,12 @@
     if(strpos($_SERVER['REQUEST_URI'], 'pages') !== false) {
 
             echo '<link rel="stylesheet" href="../../dist/styles/styles.min.css" type="text/css" media="screen">';
-            echo '<link rel="stylesheet" href="../../dist/styles/plugins/animsition/animsition.css" type="text/css" media="screen">';
+            echo '<link rel="stylesheet" href="../../dist/styles/plugins/animsition/animsition.min.css" type="text/css" media="screen">';
 
         } elseif(strpos($_SERVER['REQUEST_URI'], '/') !== false) {
 
             echo '<link rel="stylesheet" href="./dist/styles/styles.min.css" type="text/css" media="screen">';
-            echo '<link rel="stylesheet" href="./dist/styles/plugins/animsition/animsition.css" type="text/css" media="screen">';
+            echo '<link rel="stylesheet" href="./dist/styles/plugins/animsition/animsition.min.css" type="text/css" media="screen">';
 
         }
     ?>
@@ -62,18 +62,18 @@
 </head>
 
 
-<body class="animsition" data-animsition-in-class="fade-in" data-animsition-in-duration="1000" data-animsition-out-class="fade-out" data-animsition-out-duration="800">
+<body>
     <header>
         <nav>
             <div class="bloc-left">
                 <?php
                     if(strpos($_SERVER['REQUEST_URI'], 'pages') !== false) {
 
-                        echo '<a href="../../"><img src="../../src/images/header/logo.png" alt=""></a>';
+                        echo '<a href="../../" class="animsition-link" data-animsition-out-class="fade-out" data-animsition-out-duration="1000"><img src="../../src/images/header/logo.png" alt=""></a>';
 
                     } elseif(strpos($_SERVER['REQUEST_URI'], '/') !== false) {
 
-                        echo '<a href="#"><img src="./src/images/header/logo.png" alt=""></a>';
+                        echo '<a href="" class="animsition-link" data-animsition-out-class="fade-out" data-animsition-out-duration="1000"><img src="./src/images/header/logo.png" alt=""></a>';
 
                     }
                 ?>

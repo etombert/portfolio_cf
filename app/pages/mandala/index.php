@@ -1,6 +1,6 @@
     <?php include '../../head.php';?>
 
-		<main class="project mandala">
+		<main class="project mandala animsition" data-animsition-in-class="fade-in" data-animsition-in-duration="1000" data-animsition-out-class="fade-out" data-animsition-out-duration="800">
 			<section class="section-1">
 
                 <div class="bloc-container">
@@ -68,7 +68,7 @@
             </section>
 
 
-            <section class="section-6 parallax-window" data-parallax="scroll" data-image-src="../../src/images/mandala/IMG-footer-Mandala.jpg"></section>
+            <section class="section-6 parallax-window" data-parallax="scroll" data-image-src="../../src/images/mandala/IMG-footer-Mandala.png"></section>
 
 
 			<section class="section-browse">

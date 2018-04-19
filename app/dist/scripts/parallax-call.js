@@ -5,6 +5,6 @@ $(document).ready(function(){
         '../../src/images/pocketcare/IMG-footer-Pocketcare.png',
         '../../src/images/oruro/IMG-footer-Oruro.png',
         '../../src/images/cafe_arabe/IMG-footer-Cafe.png',
-        '../../src/images/mandala/IMG-footer-Mandala.jpg'
+        '../../src/images/mandala/IMG-footer-Mandala.png'
     });
 });
