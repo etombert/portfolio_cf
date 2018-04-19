@@ -1906,8 +1906,7 @@ footer {
 @media screen and (max-width: 500px) {
   .pocketcare p {
     font-size: 0.9em !important;
-    line-height: 1.5 !important;
-    text-align: justify; } }
+    line-height: 1.5 !important; } }
 
 .oruro h3 {
   line-height: 1.5; }

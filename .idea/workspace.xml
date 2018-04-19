@@ -49,15 +49,41 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_home.scss" pinned="false" current-in-tab="true">
+      <file leaf-file-name="_home.scss" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/styles/layouts/_home.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
+            <state relative-caret-position="707">
               <caret line="223" column="22" lean-forward="false" selection-start-line="223" selection-start-column="22" selection-end-line="223" selection-end-column="22" />
               <folding>
                 <element signature="e#30#2653#0" expanded="false" />
                 <element signature="e#3164#3402#0" expanded="false" />
                 <element signature="e#4118#4275#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_pocketcare.scss" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/src/styles/layouts/_pocketcare.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="605" column="0" lean-forward="false" selection-start-line="605" selection-start-column="0" selection-end-line="605" selection-end-column="0" />
+              <folding>
+                <element signature="e#2921#3057#0" expanded="false" />
+                <element signature="e#3182#3517#0" expanded="false" />
+                <element signature="e#3560#3854#0" expanded="false" />
+                <element signature="e#4116#4252#0" expanded="false" />
+                <element signature="e#4377#4712#0" expanded="false" />
+                <element signature="e#4755#5049#0" expanded="false" />
+                <element signature="e#6827#7162#0" expanded="false" />
+                <element signature="e#7205#7499#0" expanded="false" />
+                <element signature="e#7763#7899#0" expanded="false" />
+                <element signature="e#8024#8359#0" expanded="false" />
+                <element signature="e#8402#8696#0" expanded="false" />
+                <element signature="e#9018#9094#0" expanded="false" />
+                <element signature="e#9103#9231#0" expanded="false" />
+                <element signature="e#9239#9331#0" expanded="false" />
+                <element signature="e#9374#9509#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -153,7 +179,6 @@
         <option value="$PROJECT_DIR$/app/src/styles/base/fonts.scss" />
         <option value="$PROJECT_DIR$/app/dist/scripts/parallax.min.js" />
         <option value="$PROJECT_DIR$/app/src/styles/layouts/_trendee.scss" />
-        <option value="$PROJECT_DIR$/app/src/styles/layouts/_pocketcare.scss" />
         <option value="$PROJECT_DIR$/app/src/styles/layouts/_about.scss" />
         <option value="$PROJECT_DIR$/app/src/styles/base/_variables.scss" />
         <option value="$PROJECT_DIR$/app/src/styles/layouts/_oruro.scss" />
@@ -173,6 +198,7 @@
         <option value="$PROJECT_DIR$/app/head.php" />
         <option value="$PROJECT_DIR$/app/src/scripts/script.js" />
         <option value="$PROJECT_DIR$/app/src/styles/layouts/_home.scss" />
+        <option value="$PROJECT_DIR$/app/src/styles/layouts/_pocketcare.scss" />
       </list>
     </option>
   </component>
@@ -681,12 +707,12 @@
       <updated>1522829500851</updated>
       <workItem from="1522829502065" duration="46636000" />
       <workItem from="1523652849813" duration="45981000" />
-      <workItem from="1523995870912" duration="18595000" />
+      <workItem from="1523995870912" duration="19160000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="118346000" />
+    <option name="totallyTimeSpent" value="118911000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="808" extended-state="6" />
@@ -1005,30 +1031,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/styles/layouts/_pocketcare.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="310">
-          <caret line="341" column="26" lean-forward="false" selection-start-line="341" selection-start-column="26" selection-end-line="341" selection-end-column="26" />
-          <folding>
-            <element signature="e#2921#3057#0" expanded="false" />
-            <element signature="e#3182#3517#0" expanded="false" />
-            <element signature="e#3560#3854#0" expanded="false" />
-            <element signature="e#4116#4252#0" expanded="false" />
-            <element signature="e#4377#4712#0" expanded="false" />
-            <element signature="e#4755#5049#0" expanded="false" />
-            <element signature="e#6827#7162#0" expanded="false" />
-            <element signature="e#7205#7499#0" expanded="false" />
-            <element signature="e#7763#7899#0" expanded="false" />
-            <element signature="e#8024#8359#0" expanded="false" />
-            <element signature="e#8402#8696#0" expanded="false" />
-            <element signature="e#9018#9094#0" expanded="false" />
-            <element signature="e#9103#9231#0" expanded="false" />
-            <element signature="e#9239#9331#0" expanded="false" />
-            <element signature="e#9374#9509#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/styles/layouts/_about.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="143">
@@ -1225,12 +1227,36 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/styles/layouts/_home.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
+        <state relative-caret-position="707">
           <caret line="223" column="22" lean-forward="false" selection-start-line="223" selection-start-column="22" selection-end-line="223" selection-end-column="22" />
           <folding>
             <element signature="e#30#2653#0" expanded="false" />
             <element signature="e#3164#3402#0" expanded="false" />
             <element signature="e#4118#4275#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/styles/layouts/_pocketcare.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="605" column="0" lean-forward="false" selection-start-line="605" selection-start-column="0" selection-end-line="605" selection-end-column="0" />
+          <folding>
+            <element signature="e#2921#3057#0" expanded="false" />
+            <element signature="e#3182#3517#0" expanded="false" />
+            <element signature="e#3560#3854#0" expanded="false" />
+            <element signature="e#4116#4252#0" expanded="false" />
+            <element signature="e#4377#4712#0" expanded="false" />
+            <element signature="e#4755#5049#0" expanded="false" />
+            <element signature="e#6827#7162#0" expanded="false" />
+            <element signature="e#7205#7499#0" expanded="false" />
+            <element signature="e#7763#7899#0" expanded="false" />
+            <element signature="e#8024#8359#0" expanded="false" />
+            <element signature="e#8402#8696#0" expanded="false" />
+            <element signature="e#9018#9094#0" expanded="false" />
+            <element signature="e#9103#9231#0" expanded="false" />
+            <element signature="e#9239#9331#0" expanded="false" />
+            <element signature="e#9374#9509#0" expanded="false" />
           </folding>
         </state>
       </provider>
