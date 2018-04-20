@@ -177,6 +177,7 @@
       align-items: center;
       max-width: 990px;
       width: 100%;
+      padding: 0px 40px;
     }
 
     .bloc-img {
@@ -191,6 +192,7 @@
     .bloc-text {
       width: 100%;
       max-width: 375px;
+      padding: 0px 0 0 40px;
 
       h3 {
         margin: 25px 0;
@@ -214,10 +216,15 @@
 
       .bloc-content {
         flex-direction: column-reverse;
+        padding: 0;
       }
 
       .bloc-img {
         margin: 50px auto;
+      }
+
+      .bloc-text {
+        padding: 0;
       }
 
       h3 {
@@ -251,6 +258,7 @@
       align-items: center;
       max-width: 990px;
       width: 100%;
+      padding: 0px 40px;
     }
 
     .bloc-img {
@@ -265,6 +273,7 @@
     .bloc-text {
       width: 100%;
       max-width: 375px;
+      padding: 0px 0 0 40px;
 
       h3 {
         margin: 25px 0;
@@ -288,14 +297,18 @@
 
       .bloc-content {
         flex-direction: column-reverse;
+        padding: 0;
       }
 
       .bloc-img {
         margin: 50px auto;
       }
 
+      .bloc-text {
+        padding: 0;
+      }
+
       h3 {
-        font-size: 1em;
         text-align: center;
       }
 
@@ -384,7 +397,7 @@
   }
 
   .section-7 {
-    padding: 350px 0 150px;
+    padding: 150px 0;
     display: flex;
     justify-content: space-evenly;
     align-items: center;
@@ -395,6 +408,7 @@
       align-items: center;
       max-width: 990px;
       width: 100%;
+      padding: 0px 40px;
     }
 
     .bloc-img {
@@ -409,6 +423,7 @@
     .bloc-text {
       width: 100%;
       max-width: 375px;
+      padding: 0px 0 0 40px;
 
       h3 {
         margin: 25px 0;
@@ -432,10 +447,15 @@
 
       .bloc-content {
         flex-direction: column-reverse;
+        padding: 0;
       }
 
       .bloc-img {
         margin: 50px auto;
+      }
+
+      .bloc-text {
+        padding: 0;
       }
 
       h3 {
@@ -471,6 +491,7 @@
       align-items: center;
       max-width: 990px;
       width: 100%;
+      padding: 0px 40px;
     }
 
     .bloc-img {
@@ -485,6 +506,7 @@
     .bloc-text {
       width: 100%;
       max-width: 375px;
+      padding: 0px 0 0 40px;
 
       h3 {
         margin: 25px 0;
@@ -508,14 +530,18 @@
 
       .bloc-content {
         flex-direction: column-reverse;
+        padding: 0;
       }
 
       .bloc-img {
         margin: 50px auto;
       }
 
+      .bloc-text {
+        padding: 0;
+      }
+
       h3 {
-        font-size: 1em;
         text-align: center;
       }
 
