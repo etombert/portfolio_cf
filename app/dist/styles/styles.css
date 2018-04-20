@@ -402,13 +402,12 @@ th {
 /**
 * Page skeleton
 **/
-html {
-  overflow-x: hidden !important; }
+.project {
+  overflow-x: hidden; }
 
 body {
   color: #000;
   margin: 0;
-  overflow-x: hidden !important;
   /*height: 100%;
 	overflow: hidden;
 	width: 100%;
