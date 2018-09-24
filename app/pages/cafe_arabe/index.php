@@ -5,20 +5,20 @@
 
                 <div class="bloc-container">
                     <div class="bloc-text">
-                        <h2>Café arabe</h2>
+                        <h2 title="Café arabe">Café arabe</h2>
                         <p class="bloc-paragraph">His ancestral recipe still persists nowadays. Arab coffee is one of the pillars of Middle Eastern culture. Serving Arab coffee is an important aspect of hospitality that is considered a symbol of generosity in Arab societies. Come and discover the history and traditions surrounding this drink.</p>
 
                         <div class="bloc-info">
                             <div class="bloc-info_content">
-                                <h3>Role</h3>
+                                <h3 title="Role">Role</h3>
                                 <p>Designer UI</p>
                             </div>
                             <div class="bloc-info_content">
-                                <h3>Client</h3>
+                                <h3 title="Client">Client</h3>
                                 <p>UNESCO</p>
                             </div>
                             <div class="bloc-info_content">
-                                <h3>Year</h3>
+                                <h3 title="Year">Year</h3>
                                 <p>2017</p>
                             </div>
                         </div>
@@ -35,7 +35,7 @@
                     </div>
 
                     <div class="bloc-img">
-                        <img src="../../src/images/cafe_arabe/IMG-header-Cafe.png" alt="">
+                        <img src="../../src/images/cafe_arabe/IMG-header-Cafe.png" alt="Café arabe header">
                     </div>
                 </div>
 
@@ -43,13 +43,13 @@
 
             <section class="section-2">
                 <div class="bloc-img">
-                    <img src="../../src/images/cafe_arabe/IMG-maquette-Cafe.png" alt="">
+                    <img src="../../src/images/cafe_arabe/IMG-maquette-Cafe.png" alt="Maquette café arabe">
                 </div>
             </section>
 
             <section class="section-3">
                 <div class="bloc-text">
-                    <h3>MASTERPIECES OF THE ORAL AND INTANGIBLE HERITAGE</h3>
+                    <h3 title="Masterpieces of the oral and intangible heritage">MASTERPIECES OF THE ORAL AND INTANGIBLE HERITAGE</h3>
                     <p>Twenty years ago, UNESCO created an international distinction to highlight the most remarkable forms of cultural heritage around the world : the masterpieces of oral and intangible heritage. These works are all ceremonies, know-how and traditions that we pass on from generation to generation. As they are intangible, they are extremely fragile. Today, 470 works are listed and more than 150 countries have raked the convention which aims to protect them.</p>
                 </div>
             </section>
@@ -66,7 +66,7 @@
                             <div class="bloc-img-bg"></div>
                         </div>
                         <div class="bloc-text">
-                            <h3>UI DESIGN</h3>
+                            <h3 title="UI DESIGN">UI DESIGN</h3>
                             <p>The most folkloric event in Bolivia</p>
                         </div>
                     </a>
@@ -76,7 +76,7 @@
                             <div class="bloc-img-bg"></div>
                         </div>
                         <div class="bloc-text">
-                            <h3>Product Design</h3>
+                            <h3 title="Product Design">Product Design</h3>
                             <p>The health wallet for all the family</p>
                         </div>
                     </a>
@@ -86,7 +86,7 @@
                             <div class="bloc-img-bg"></div>
                         </div>
                         <div class="bloc-text">
-                            <h3>UI DESIGN</h3>
+                            <h3 title="UI DESIGN">UI DESIGN</h3>
                             <p>The coffee served with finesse</p>
                         </div>
                     </a>
@@ -96,7 +96,7 @@
                             <div class="bloc-img-bg"></div>
                         </div>
                         <div class="bloc-text">
-                            <h3>Creativity</h3>
+                            <h3 title="Creativity">Creativity</h3>
                             <p>Life floutishes where light shines</p>
                         </div>
                     </a>

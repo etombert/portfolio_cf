@@ -8,7 +8,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
     <meta name="author" content="Clara Foggetti">
-    <meta name="keywords" content="Web Designer, UX Designer, UI Designer, Hetic">
+    <meta name="keywords" content="Web Designer, Student, UX Designer, UI Designer, Hetic, Internship, New York, Paris, Avignon">
     <meta name="description" content="Hello, I am Clara Foggetti, a Product Designer living in Paris. I am currently a third-year student involved in HETIC, an IT school. I like resolving design problems, creating smart user interfaces and imagining useful interactions. I also like sharing ideas with people to find the best way to make great stuff.">
     <meta property="og:description" content="" />
     <meta property="og:image" content="http://" />

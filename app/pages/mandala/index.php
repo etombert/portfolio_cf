@@ -5,20 +5,20 @@
 
                 <div class="bloc-container">
                     <div class="bloc-text">
-                        <h2>Mandala</h2>
+                        <h2 title="Mandala">Mandala</h2>
                         <p class="bloc-paragraph">Organized drawing revolving around a central point, the mandala is a tool that while developing our creativity, allows to focus, harmonize and transform. It works on four levels of consciousness and can produce physical, psychological and spiritual effects.</p>
 
                         <div class="bloc-info">
                             <div class="bloc-info_content">
-                                <h3>Role</h3>
+                                <h3 title="Role">Role</h3>
                                 <p>Art director</p>
                             </div>
                             <div class="bloc-info_content">
-                                <h3>Client</h3>
+                                <h3 title="Client">Client</h3>
                                 <p>HETIC</p>
                             </div>
                             <div class="bloc-info_content">
-                                <h3>Year</h3>
+                                <h3 title="Year">Year</h3>
                                 <p>2017</p>
                             </div>
                         </div>
@@ -34,7 +34,7 @@
                     </div>
 
                     <div class="bloc-img">
-                        <img src="../../src/images/mandala/IMG-header-mandala.png" alt="">
+                        <img src="../../src/images/mandala/IMG-header-mandala.png" alt="Mandala header">
                     </div>
                 </div>
 
@@ -42,27 +42,27 @@
 
             <section class="section-2">
                 <div class="bloc-img">
-                    <img src="../../src/images/mandala/IMG-mandala-full-1.png" alt="">
+                    <img src="../../src/images/mandala/IMG-mandala-full-1.png" alt="Mandala full">
                 </div>
             </section>
 
             <section class="section-3">
                 <div class="bloc-text">
-                    <h3>A KIND OF MAPPING OF OUR MENTAL STATE</h3>
+                    <h3 title="A KIND OF MAPPING OF OUR MENTAL STATE">A KIND OF MAPPING OF OUR MENTAL STATE</h3>
                     <p>Mandalas make it possible to project the conflicts out of ourselves and thus to free us. It is a cartography of our mental state at the moment we realize the drawing. Very positive results have been observed when using this tool for people suffering from depression or having troubles communicating. Drawing a mandala helps to restore brain balance.</p>
                 </div>
             </section>
 
             <section class="section-4">
                 <div class="bloc-img">
-                    <img src="../../src/images/mandala/IMG-mandala-middle-2.png" alt="">
+                    <img src="../../src/images/mandala/IMG-mandala-middle-2.png" alt="Mandala middle">
                 </div>
             </section>
 
 
             <section class="section-5">
                 <div class="bloc-text">
-                    <h3>A SPIRITUAL APPROACH WITH MANY VIRTUES</h3>
+                    <h3 title="A SPIRITUAL APPROACH WITH MANY VIRTUES">A SPIRITUAL APPROACH WITH MANY VIRTUES</h3>
                     <p>Upon entry into the circle, there is a vibratory change producing the harmonization of dualities and the unification of opposites. Thus, the wounded being can find in the practice of the mandala a consolation, an understanding of certain events. It makes it possible to rebalance the energies, then to begin the way of the center.</p>
                 </div>
             </section>
@@ -82,7 +82,7 @@
                             <div class="bloc-img-bg"></div>
                         </div>
                         <div class="bloc-text">
-                            <h3>UI DESIGN</h3>
+                            <h3 title="UI DESIGN">UI DESIGN</h3>
                             <p>The most folkloric event in Bolivia</p>
                         </div>
                     </a>
@@ -92,7 +92,7 @@
                             <div class="bloc-img-bg"></div>
                         </div>
                         <div class="bloc-text">
-                            <h3>Product Design</h3>
+                            <h3 title="Product Design">Product Design</h3>
                             <p>The health wallet for all the family</p>
                         </div>
                     </a>
@@ -102,7 +102,7 @@
                             <div class="bloc-img-bg"></div>
                         </div>
                         <div class="bloc-text">
-                            <h3>UI DESIGN</h3>
+                            <h3 title="UI DESIGN">UI DESIGN</h3>
                             <p>The coffee served with finesse</p>
                         </div>
                     </a>
@@ -112,7 +112,7 @@
                             <div class="bloc-img-bg"></div>
                         </div>
                         <div class="bloc-text">
-                            <h3>Creativity</h3>
+                            <h3 title="Creativity">Creativity</h3>
                             <p>Life floutishes where light shines</p>
                         </div>
                     </a>

@@ -5,20 +5,20 @@
 
                 <div class="bloc-container">
                     <div class="bloc-text">
-                        <h2>Trendee</h2>
+                        <h2 title="Trendee">Trendee</h2>
                         <p class="bloc-paragraph">Being fashionable is the concern of many women today, but finding your own style or inspiration is not always so easy. With Trendee nothing is more simple, you can follow your favorite influencers and view, click and buy the items worn by them and be sure that you will always be at the forefront of fashion.</p>
 
                         <div class="bloc-info">
                             <div class="bloc-info_content">
-                                <h3>Role</h3>
+                                <h3 title="Role">Role</h3>
                                 <p>Product designer</p>
                             </div>
                             <div class="bloc-info_content">
-                                <h3>Client</h3>
+                                <h3 title="Client">Client</h3>
                                 <p>Trendee</p>
                             </div>
                             <div class="bloc-info_content">
-                                <h3>Year</h3>
+                                <h3 title="Year">Year</h3>
                                 <p>2017</p>
                             </div>
                         </div>
@@ -34,7 +34,7 @@
                     </div>
 
                     <div class="bloc-img">
-                        <img src="../../src/images/trendee/mobile-trendee.png" alt="">
+                        <img src="../../src/images/trendee/mobile-trendee.png" alt="Trendee mobile">
                     </div>
                 </div>
 
@@ -43,13 +43,13 @@
 
 			<section class="section-2">
                 <div class="bloc-img">
-                    <img src="../../src/images/trendee/screens-social2.png" alt="">
+                    <img src="../../src/images/trendee/screens-social2.png" alt="Social screen">
                 </div>
             </section>
 
 			<section class="section-3">
 				<div class="bloc-text">
-					<h3>CHALLENGE USERS BY POSTING LOOKS</h3>
+					<h3 title="CHALLENGE USERS BY POSTING LOOKS">CHALLENGE USERS BY POSTING LOOKS</h3>
 					<p>Over a period of time users select the three looks which are most likely to be among the top looks. Each outfit will receive a number of likes. The three looks which get the highest numbers of likes will be the winners. Each user will accumulate points according to his activity and according to a scale.</p>
 				</div>
 			</section>
@@ -58,12 +58,12 @@
 			<section class="section-4">
 				<div class="bloc-content">
 					<div class="bloc-img">
-						<img src="../../src/images/trendee/img-identifier-article.png" alt="">
+						<img src="../../src/images/trendee/img-identifier-article.png" alt="Identifier article">
                         <video src="../../src/images/trendee/video/the-look-in-one-click.mov" loop autoplay></video>
 					</div>
 
 					<div class="bloc-text">
-						<h3>THE LOOK IN ONE CLICK</h3>
+						<h3 title="THE LOOK IN ONE CLICK">THE LOOK IN ONE CLICK</h3>
                         <p>Trendee is an innovative and free mobile application that allows its enthusiastic fashion community to discover the new outfits presented by influencers, and to identify and purchase the items that make up every look.</p>
 					</div>
 				</div>
@@ -72,14 +72,14 @@
 
 			<section class="section-5">
                 <div class="bloc-img">
-                    <img src="../../src/images/trendee/IMG-post.png" alt="">
+                    <img src="../../src/images/trendee/IMG-post.png" alt="Post">
                 </div>
             </section>
 
 
 			<section class="section-6">
 				<div class="bloc-text">
-					<h3>SHARE AND TAG YOUR OUTFITS</h3>
+					<h3 title="SHARE AND TAG YOUR OUTFITS">SHARE AND TAG YOUR OUTFITS</h3>
                     <p>You can post your favorite looks after tagging the clothes you wear. Over a period of time, users select the outfits they prefer and reward the authors. Your trend line will allow you to discover the accumulation of the best looks of the previous days.</p>
 				</div>
 			</section>
@@ -88,12 +88,12 @@
 			<section class="section-7">
 				<div class="bloc-content">
 					<div class="bloc-img">
-						<img src="../../src/images/trendee/mobile-trendee.png" alt="">
+						<img src="../../src/images/trendee/mobile-trendee.png" alt="Mobile Trendee">
                         <video src="../../src/images/trendee/video/search-v2.mov" loop autoplay></video>
 					</div>
 
 					<div class="bloc-text">
-						<h3>SEARCH ALL YOU WANT</h3>
+						<h3 title="SEARCH ALL YOU WANT">SEARCH ALL YOU WANT</h3>
                         <p>Have you been looking for an outfit for your next outing with your boyfriend ? You have spotted this beautiful yellow bag on a fashionista at the corner of a street, or you want to follow the trends of bloggers ? Thanks to our improved search you are in the right place to find anything you want.</p>
 					</div>
 				</div>
@@ -104,7 +104,7 @@
 
 
 			<section class="section-browse">
-				<h2>Browse other projects</h2>
+				<h2 title="Browse other projects">Browse other projects</h2>
 
 				<div class="bloc-browse_container">
 
@@ -113,7 +113,7 @@
                             <div class="bloc-img-bg"></div>
                         </div>
 						<div class="bloc-text">
-							<h3>UI DESIGN</h3>
+							<h3 title="UI DESIGN">UI DESIGN</h3>
 							<p>The most folkloric event in Bolivia</p>
 						</div>
 					</a>
@@ -123,7 +123,7 @@
                             <div class="bloc-img-bg"></div>
                         </div>
                         <div class="bloc-text">
-                            <h3>Product Design</h3>
+                            <h3 title="Product Design">Product Design</h3>
                             <p>The health wallet for all the family</p>
                         </div>
                     </a>
@@ -133,7 +133,7 @@
                             <div class="bloc-img-bg"></div>
                         </div>
                         <div class="bloc-text">
-                            <h3>UI DESIGN</h3>
+                            <h3 title="UI DESIGN">UI DESIGN</h3>
                             <p>The coffee served with finesse</p>
                         </div>
                     </a>
@@ -143,7 +143,7 @@
                             <div class="bloc-img-bg"></div>
                         </div>
                         <div class="bloc-text">
-                            <h3>Creativity</h3>
+                            <h3 title="Creativity">Creativity</h3>
                             <p>Life floutishes where light shines</p>
                         </div>
                     </a>
