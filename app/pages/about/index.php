@@ -12,12 +12,12 @@
 
                     <div class="bloc-text">
                         <h3>know more about me</h3>
-                        <p>I blossom everyday in mastering my skills as a designer, creative thinker and web child. I am an eager-to-learn person, in life as well as in my work. I am lead by an insatiable curiosity.</p>
+                        <p>I blossom everyday in mastering my skills as a Designer, creative thinker and web child. I am an eager-to-learn person, in life as well as in my work. I am lead by an insatiable curiosity.</p>
                     </div>
 
                     <div class="bloc-text">
                         <h3>experience & internship</h3>
-                        <p>Last year, I was an intern in the <strong>Trendee</strong> start-up as a Creative Designer. It allowed me to improve new skills and discover incredible people. At the moment, I am looking for an internship as a Product Designer from July 2nd to October 19th 2018 in New York.</p>
+                        <p>Last year, I was an  intern in the <strong>Trendee</strong> start-up as a Creative Designer. It allowed me to improve new skills and discover incredible people. At the moment, I am interning as a designer at <strong>Fantasy Interactive</strong> in New York.</p>
                     </div>
 
                     <div class="bloc-text">

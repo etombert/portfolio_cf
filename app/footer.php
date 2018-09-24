@@ -1,6 +1,6 @@
     <footer>
         <div class="bloc-content">
-            <h2>I'M LOOKING FOR A 4-MONTH INTERNSHIP STARTING IN JULY 2018 AS A PRODUCT DESIGNER.</h2>
+            <h2>I’m currently in New York where I work as Designer for Fantasy Interactive</h2>
         </div>
         <div class="bloc-contact">
             <ul>

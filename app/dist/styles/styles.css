@@ -411,7 +411,8 @@ body {
   /*height: 100%;
 	overflow: hidden;
 	width: 100%;
-	position: fixed;*/ }
+	position: fixed;*/
+  overflow-x: hidden; }
   body a {
     color: black;
     text-decoration: none; }
