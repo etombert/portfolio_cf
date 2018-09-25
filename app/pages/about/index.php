@@ -17,7 +17,7 @@
 
                     <div class="bloc-text">
                         <h3 title="Experience & internship">Experience & internship</h3>
-                        <p>Last year, I was an  intern in the <strong>Trendee</strong> start-up as a Creative Designer. It allowed me to improve new skills and discover incredible people. At the moment, I am interning as a designer at <strong>Fantasy Interactive</strong> in New York.</p>
+                        <p>Last year, I was an  intern in the <strong>Trendee</strong> start-up as a Creative Designer. It allowed me to improve new skills and discover incredible people. At the moment, I am interning as a Designer at <strong>Fantasy Interactive</strong> in New York.</p>
                     </div>
 
                     <div class="bloc-text">

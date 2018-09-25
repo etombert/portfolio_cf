@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="76a57971-c241-4997-9fef-6a68c004d473" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/footer.php" afterPath="$PROJECT_DIR$/app/footer.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/head.php" afterPath="$PROJECT_DIR$/app/head.php" />
-    </list>
+    <list default="true" id="76a57971-c241-4997-9fef-6a68c004d473" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -25,11 +22,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/pages/about/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="23" column="52" lean-forward="false" selection-start-line="23" selection-start-column="52" selection-end-line="23" selection-end-column="52" />
+            <state relative-caret-position="107">
+              <caret line="19" column="224" lean-forward="false" selection-start-line="19" selection-start-column="224" selection-end-line="19" selection-end-column="224" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="footer.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/footer.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="20" column="48" lean-forward="true" selection-start-line="20" selection-start-column="48" selection-end-line="20" selection-end-column="48" />
               <folding />
             </state>
           </provider>
@@ -39,7 +46,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>section-2</find>
       <find>the look</find>
       <find>url(../../src/images/accueil/clara-foggetti-header.png)</find>
       <find>the look in</find>
@@ -69,6 +75,7 @@
       <find>serif</find>
       <find>FANTASY INTERACTIVE</find>
       <find>skills as a designer</find>
+      <find>as a d</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -103,13 +110,13 @@
         <option value="$PROJECT_DIR$/app/dist/styles/styles.css" />
         <option value="$PROJECT_DIR$/app/src/styles/base/_global.scss" />
         <option value="$PROJECT_DIR$/app/index.php" />
-        <option value="$PROJECT_DIR$/app/pages/about/index.php" />
         <option value="$PROJECT_DIR$/app/pages/cafe_arabe/index.php" />
         <option value="$PROJECT_DIR$/app/pages/mandala/index.php" />
         <option value="$PROJECT_DIR$/app/pages/oruro/index.php" />
         <option value="$PROJECT_DIR$/app/pages/pocketcare/index.php" />
         <option value="$PROJECT_DIR$/app/pages/trendee/index.php" />
         <option value="$PROJECT_DIR$/app/head.php" />
+        <option value="$PROJECT_DIR$/app/pages/about/index.php" />
         <option value="$PROJECT_DIR$/app/footer.php" />
       </list>
     </option>
@@ -326,12 +333,12 @@
       <workItem from="1522829502065" duration="46636000" />
       <workItem from="1523652849813" duration="45981000" />
       <workItem from="1523995870912" duration="24245000" />
-      <workItem from="1537820057809" duration="4585000" />
+      <workItem from="1537820057809" duration="5348000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="128581000" />
+    <option name="totallyTimeSpent" value="129344000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="24" width="1440" height="811" extended-state="6" />
@@ -717,14 +724,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/footer.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="97" lean-forward="false" selection-start-line="2" selection-start-column="97" selection-end-line="2" selection-end-column="97" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/styles/base/_global.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="148">
@@ -735,8 +734,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/pages/about/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="52" lean-forward="false" selection-start-line="23" selection-start-column="52" selection-end-line="23" selection-end-column="52" />
+        <state relative-caret-position="107">
+          <caret line="19" column="224" lean-forward="false" selection-start-line="19" selection-start-column="224" selection-end-line="19" selection-end-column="224" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="48" lean-forward="true" selection-start-line="20" selection-start-column="48" selection-end-line="20" selection-end-column="48" />
           <folding />
         </state>
       </provider>

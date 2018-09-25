@@ -1,6 +1,6 @@
     <footer>
         <div class="bloc-content">
-            <h2 title="I’m currently in New York where I work as Designer for Fantasy Interactive">I’m currently in New York where I work as Designer for Fantasy Interactive</h2>
+            <h2 title="I’m currently in New York where I work as Designer for Fantasy Interactive">I’m currently in New York where I work as Designer for Fantasy Interactive.</h2>
         </div>
         <div class="bloc-contact">
             <ul>
